@@ -8,7 +8,7 @@ from pybliometrics.scopus import AbstractRetrieval, ScopusSearch
 from pybliometrics.scopus import config
 
 # 设置 API Key 和 Institution Token
-config['Authentication']['APIKey'] = '4b15d76171db4f4d866d1a056d9185f5'
+config['Authentication']['APIKey'] = ''
 config['Authentication']['InstToken'] = ''
 
 
